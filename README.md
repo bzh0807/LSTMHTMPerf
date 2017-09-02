@@ -15,9 +15,9 @@ The wiki_REF.py and wiki_BIN.py files are run similarly, except we change the --
 ```
 
 ## HTM ##
-Run the runptbbatchload.py and runwiki.py files without special arguments.
+Run the runptb.py and runwiki.py files without special arguments.
 ```
-python runptbbatchload.py
+python runptb.py
 ```
 ```
 python runwiki.py
